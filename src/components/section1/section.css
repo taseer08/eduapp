@@ -1,0 +1,83 @@
+.webtech{
+    display: flex;
+    justify-content: space-between;
+    margin: 100px 30px -60px 40px;
+}
+
+.webtech .web {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+.webtech .imgd img{
+    display: flex;
+    width: 80%;
+    margin: 40px 0 0 100px;
+}
+.web .imgd img {
+    width: 200px;
+    height: 250px;
+}
+.res{
+    display:  flex;
+    width: 50%;
+    margin: 0 0 150px 40px;
+}
+.webtech1{
+    display: flex;
+    justify-content: space-between;
+    margin: 100px 30px 60px 40px;
+}
+
+.webtech1 .web {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+.webtech1 .imgu img{
+    display: flex;
+    /* width: 80%; */
+    height: 80%;
+    margin: 30px 0 0 100px;
+}
+.webtech1 .web i{
+    margin: 30px 0 0 0;
+}
+.webtech2{
+    display: flex;
+    justify-content: space-between;
+    margin: 100px 30px 60px 40px;
+}
+
+.webtech2 .web {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+}
+
+.webtech2 .web i{
+    margin: 30px 0 0 0;
+}
+.webtech2 .web .bnt {
+    display: flex;
+    width: 220px;
+    margin: 20px 20px 0 10px ;
+}
+.webtech2 .web .bnt button {
+    background-color: white;
+    padding: 10px;
+    
+}
+.webtech2 .web .bnt  .bnt1 {
+    border: none;
+    margin-left: 20px;
+} 
+.web .bnt i{
+    margin: 12px 10px;
+}
+.webtech2 .imgs img{
+    display: flex;
+    width: 80%;
+    height: 90%;
+    margin: 30px 0 0 100px;
+}

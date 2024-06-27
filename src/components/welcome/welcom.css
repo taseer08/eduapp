@@ -1,0 +1,47 @@
+.welcome{
+    display: flex;
+    flex-direction: column;
+    background: black;
+    height: 650px;
+
+}
+.welcome .wel{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 110px 0 20px 0  ;
+    color: aliceblue;
+}
+.welcome .wel h1{
+    font-size: 4em;
+}
+.welcome .wel h1 span{
+    margin: 100px;
+}
+.welcome .wel h6{
+    font-size: 1em;
+}
+.welcome .wel h6 span{
+    margin: 100px;
+}
+.welcome .btn{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.welcome .btn button {
+    width: 100px;
+    height: 30px;
+    margin: 20px;
+    border-color: white;
+    border-radius: 25px;
+    background-color: rgb(255, 255, 255);
+}
+.welcome .btn button a{
+    text-decoration: none;
+    color:rgb(0, 0, 0);
+}
+.welcome .btn button #btn {
+    border-color: white;
+}
